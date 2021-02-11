@@ -1,0 +1,16 @@
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series.deps.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/ref/Series.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/bin/Debug/net5.0/Series.pdb
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/ref/Series.dll
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.pdb
+/home/leonardovallem/Área de trabalho/Dev/Linguagens/c#/cursodio/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
